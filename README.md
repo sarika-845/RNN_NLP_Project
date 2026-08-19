@@ -45,6 +45,14 @@ This project demonstrates end-to-end ML workflow: **data preprocessing → model
    - User enters text → prediction displayed with probabilities.  
    - Hosted on Streamlit Cloud.
 
+
+
+## 🚀 Live Demo
+
+🌐 **Live Application:** [RNN NLP Project]  https://rnnnlpproject-h79zdsdeekugh3kw7daam2.streamlit.app/
+
+🤖 The trained RNN-based NLP model is deployed using Streamlit, allowing users to enter text and generate predictions through an interactive web interface.
+
 ---
 
 ## 📂 Project Structure
